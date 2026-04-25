@@ -13,8 +13,11 @@ print("Before change numbers: " , numbers)
 numbers[3]=10
 print("After change:" , numbers)
 
-# create list of Colors
+# create list of 
 Colors=['red','Blue','Green','Yellow']
 
 for color in Colors:
     print(color)
+
+
+    # Output:
